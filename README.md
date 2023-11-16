@@ -1,6 +1,7 @@
 # Cyclic_Redundancy_Check_Program
 
 crc_encoder:  data word is converted into a codeword using a CRC.
+
 crc_decoder: restores codeword to dataword, and detects if there is an error.
 
 3.1. crc_encoder
